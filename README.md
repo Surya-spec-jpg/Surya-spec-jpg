@@ -26,7 +26,7 @@
 
 ### 🔹 **Nestify Market**
 > A **Java console application** that allows users to buy and sell products through an in-person meeting for product exchange. The application features user registration, OTP-based email verification, product listing, order placement, and payment processing, including a commission for successful transactions.  
-🔗 [GitHub Repository]()
+🔗 [GitHub Repository](https://github.com/Surya-spec-jpg/Nestify_Market)
 
 ### 🔹 **Bank Application**
 > A Java-based console application using **JDBC** and **MySQL Workbench** to manage basic banking operations like deposits, withdrawals, and account management.
