@@ -18,19 +18,24 @@
 ![Linux](https://img.shields.io/badge/-Linux-FCC624?style=flat&logo=linux&logoColor=black)
 ![Git](https://img.shields.io/badge/-Git-F05032?style=flat&logo=git&logoColor=white)
 ![GitHub](https://img.shields.io/badge/-GitHub-181717?style=flat&logo=github)
+![AWS](https://img.shields.io/badge/-AWS-FF9900?style=flat&logo=amazonaws&logoColor=white)
 
 ---
 
 ## 💼 Projects
 
-### 🔹 Bank Application
+### 🔹 **Nestify Market**
+> A **Java console application** that allows users to buy and sell products through an in-person meeting for product exchange. The application features user registration, OTP-based email verification, product listing, order placement, and payment processing, including a commission for successful transactions.  
+🔗 [GitHub Repository]()
+
+### 🔹 **Bank Application**
 > A Java-based console application using **JDBC** and **MySQL Workbench** to manage basic banking operations like deposits, withdrawals, and account management.
 
-### 🔹 Portfolio Website
+### 🔹 **Portfolio Website**
 > A responsive portfolio to showcase my work, built with **HTML**, **CSS**, and **JavaScript**.  
 🔗 [Live Site](https://suryaportfolio-iota.vercel.app/)
 
-### 🔹 Linux CLI Tools Practice
+### 🔹 **Linux CLI Tools Practice**
 > Collection of basic shell scripts and command-line tools I practiced while learning **Linux** and **DevOps** concepts.
 
 ---
@@ -49,7 +54,6 @@
 [![Email](https://img.shields.io/badge/Email-sxrya007@gmail.com-red?style=flat&logo=gmail&logoColor=white)](mailto:sxrya007@gmail.com)
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-blue?style=flat&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/surya-b-in/)
 [![Portfolio](https://img.shields.io/badge/Portfolio-View-green?style=flat)](https://suryaportfolio-iota.vercel.app/)
-
 
 ---
 
