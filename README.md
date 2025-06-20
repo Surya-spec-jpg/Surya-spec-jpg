@@ -10,6 +10,7 @@
 
 ![Java](https://img.shields.io/badge/-Java-007396?style=flat&logo=java&logoColor=white)
 ![Spring Boot](https://img.shields.io/badge/-SpringBoot-6DB33F?style=flat&logo=springboot&logoColor=white)
+![Hibernate](https://img.shields.io/badge/-Hibernate-59666C?style=flat&logo=hibernate&logoColor=white)
 ![React](https://img.shields.io/badge/-React-61DAFB?style=flat&logo=react&logoColor=black)
 ![HTML](https://img.shields.io/badge/-HTML5-E34F26?style=flat&logo=html5&logoColor=white)
 ![CSS](https://img.shields.io/badge/-CSS3-1572B6?style=flat&logo=css3)
@@ -29,7 +30,7 @@
 🔗 [GitHub Repository](https://github.com/Surya-spec-jpg/Nestify_Market)
 
 ### 🔹 **Bank Application**
-> A Java-based console application using **JDBC** and **MySQL Workbench** to manage basic banking operations like deposits, withdrawals, and account management.
+> A Java-based console application using **JDBC**, **Hibernate**, and **MySQL Workbench** to manage basic banking operations like deposits, withdrawals, and account management.
 
 ### 🔹 **Portfolio Website**
 > A responsive portfolio to showcase my work, built with **HTML**, **CSS**, and **JavaScript**.  
